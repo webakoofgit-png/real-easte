@@ -1,0 +1,371 @@
+[
+  {
+    "id": "villa-beverly",
+    "title": "The Beverly Hills Sanctuary",
+    "tagline": "Architectural masterpiece with panoramic city-to-ocean vistas",
+    "price": 285000000,
+    "formattedPrice": "₹28.50 Cr",
+    "location": "Beverly Hills, California",
+    "city": "Beverly Hills",
+    "state": "CA",
+    "type": "Villa",
+    "status": "For Sale",
+    "beds": 7,
+    "baths": 9,
+    "sqft": 14200,
+    "yearBuilt": 2023,
+    "image": "/images/props/villa-beverly.jpg",
+    "gallery": [
+      "/images/props/villa-beverly.jpg",
+      "/images/features/interior.jpg",
+      "/images/features/pool.jpg",
+      "/images/hero-bg.jpg"
+    ],
+    "description": "Nestled in the prestigious hills of Beverly Hills, this contemporary estate redefines modern luxury. Designed with seamless indoor-outdoor living in mind, floor-to-ceiling glass reveals breathtaking canyon-to-ocean panoramas. Complete with infinity-edge pool, private wellness spa, screening room, and 8-car gallery garage.",
+    "features": [
+      "Infinity Edge Pool",
+      "Private Wine Cellar (1,200 bottles)",
+      "State-of-the-Art Home Cinema",
+      "Smart Home Automation",
+      "Private Helipad Access",
+      "Sub-Zero & Wolf Kitchen",
+      "Spa & Wellness Suite",
+      "Gated Motor Court"
+    ],
+    "agent": {
+      "name": "Victoria Sterling",
+      "phone": "+1 (310) 849-2201",
+      "email": "v.sterling@cloud9consultant.com",
+      "image": "/images/team/agent-1.jpg",
+      "title": "Senior Luxury Partner"
+    },
+    "coordinates": {
+      "lat": 34.0736,
+      "lng": -118.4004
+    },
+    "featured": true,
+    "badge": "Signature Listing"
+  },
+  {
+    "id": "penthouse-nyc",
+    "title": "The Billionaires' Row Penthouse",
+    "tagline": "Triplex sky mansion overlooking Central Park",
+    "price": 420000000,
+    "formattedPrice": "₹42.00 Cr",
+    "location": "Manhattan, New York",
+    "city": "New York",
+    "state": "NY",
+    "type": "Penthouse",
+    "status": "For Sale",
+    "beds": 5,
+    "baths": 6.5,
+    "sqft": 9800,
+    "yearBuilt": 2024,
+    "image": "/images/props/penthouse-nyc.jpg",
+    "gallery": [
+      "/images/props/penthouse-nyc.jpg",
+      "/images/features/interior.jpg",
+      "/images/props/skyline-tower.jpg",
+      "/images/features/lifestyle.jpg"
+    ],
+    "description": "Floating 80 stories above Manhattan, this triplex penthouse commands unrivaled 360-degree vistas of Central Park, the Hudson River, and the iconic city skyline. Features a dramatic double-height cantilevered living salon, private terrace with heated plunge pool, and bespoke Italian marble finishes.",
+    "features": [
+      "360° Panoramic Skyline Views",
+      "Private Elevator Foyer",
+      "24/7 Concierge & White Glove Service",
+      "Heated Sky Terrace Plunge Pool",
+      "Boffi Custom Kitchen",
+      "Master Suite with Dual Dressing Rooms",
+      "Private Sommelier Cellar"
+    ],
+    "agent": {
+      "name": "Julian Vance",
+      "phone": "+1 (212) 980-4520",
+      "email": "j.vance@cloud9consultant.com",
+      "image": "/images/team/agent-2.jpg",
+      "title": "Principal Manhattan Broker"
+    },
+    "coordinates": {
+      "lat": 40.7648,
+      "lng": -73.9785
+    },
+    "featured": true,
+    "badge": "Trophy Asset"
+  },
+  {
+    "id": "waterfront-miami",
+    "title": "Star Island Coastal Residence",
+    "tagline": "Ultra-private waterfront sanctuary with deep-water yacht dockage",
+    "price": 345000000,
+    "formattedPrice": "₹34.50 Cr",
+    "location": "Miami Beach, Florida",
+    "city": "Miami Beach",
+    "state": "FL",
+    "type": "Waterfront",
+    "status": "For Sale",
+    "beds": 6,
+    "baths": 8,
+    "sqft": 12500,
+    "yearBuilt": 2022,
+    "image": "/images/props/waterfront-miami.jpg",
+    "gallery": [
+      "/images/props/waterfront-miami.jpg",
+      "/images/features/pool.jpg",
+      "/images/features/lifestyle.jpg",
+      "/images/features/interior.jpg"
+    ],
+    "description": "Set along the ultra-exclusive shores of Star Island, this tropical modern waterfront jewel offers 150 feet of prime Biscayne Bay frontage with private deep-water dock capable of hosting a 130ft superyacht. Lush botanical grounds surround an expansive resort-style lap pool, cabana bar, and al fresco dining verandas.",
+    "features": [
+      "150ft Deep Water Yacht Mooring",
+      "Resort-Style Oasis Pool & Cabana",
+      "Outdoor Summer Kitchen",
+      "Private Security Guardhouse",
+      "Custom Glass Wine Display",
+      "Gym & Cryotherapy Room",
+      "Automated Louvered Pergolas"
+    ],
+    "agent": {
+      "name": "Sofia De La Rosa",
+      "phone": "+1 (305) 551-7789",
+      "email": "s.delarosa@cloud9consultant.com",
+      "image": "/images/team/agent-3.jpg",
+      "title": "Waterfront Specialist"
+    },
+    "coordinates": {
+      "lat": 25.7781,
+      "lng": -80.1534
+    },
+    "featured": true,
+    "badge": "Waterfront Elite"
+  },
+  {
+    "id": "estate-aspen",
+    "title": "Red Mountain Alpine Retreat",
+    "tagline": "Ski-in/ski-out timber & glass chalet with Aspen Mountain panoramas",
+    "price": 219000000,
+    "formattedPrice": "₹21.90 Cr",
+    "location": "Aspen, Colorado",
+    "city": "Aspen",
+    "state": "CO",
+    "type": "Estate",
+    "status": "For Sale",
+    "beds": 6,
+    "baths": 7,
+    "sqft": 10400,
+    "yearBuilt": 2021,
+    "image": "/images/props/estate-aspen.jpg",
+    "gallery": [
+      "/images/props/estate-aspen.jpg",
+      "/images/features/interior.jpg",
+      "/images/props/villa-beverly.jpg",
+      "/images/hero-bg.jpg"
+    ],
+    "description": "Commanding Red Mountain's premier ridge, this alpine sanctuary fuses hand-hewn Colorado timbers, blackened steel, and soaring glass curtain walls. Direct ski trail access, heated outdoor stone terraces, dual artisan fireplaces, and an underground thermal spa overlooking the Continental Divide.",
+    "features": [
+      "Ski-In / Ski-Out Access",
+      "Heated Driveway & Flagstone Patios",
+      "Outdoor Cedar Hot Tub & Fire Lounge",
+      "Commercial-Grade Ski Locker Room",
+      "Finnish Sauna & Cold Plunge",
+      "Custom Stone Fireplace",
+      "Mountain-Facing Master Sanctuary"
+    ],
+    "agent": {
+      "name": "Marcus Thorne",
+      "phone": "+1 (970) 925-1100",
+      "email": "m.thorne@cloud9consultant.com",
+      "image": "/images/team/agent-4.jpg",
+      "title": "Alpine Portfolio Director"
+    },
+    "coordinates": {
+      "lat": 39.1911,
+      "lng": -106.8175
+    },
+    "featured": true,
+    "badge": "Mountain Pinnacle"
+  },
+  {
+    "id": "mansion-malibu",
+    "title": "Point Dume Oceanfront Glasshouse",
+    "tagline": "Clifftop architectural estate with private beach trail",
+    "price": 380000000,
+    "formattedPrice": "₹38.00 Cr",
+    "location": "Malibu, California",
+    "city": "Malibu",
+    "state": "CA",
+    "type": "Mansion",
+    "status": "For Sale",
+    "beds": 5,
+    "baths": 7,
+    "sqft": 11200,
+    "yearBuilt": 2024,
+    "image": "/images/props/mansion-malibu.jpg",
+    "gallery": [
+      "/images/props/mansion-malibu.jpg",
+      "/images/features/pool.jpg",
+      "/images/features/lifestyle.jpg",
+      "/images/hero-bg.jpg"
+    ],
+    "description": "Perched atop Point Dume with direct deeded beach trail access, this museum-quality residence represents the apex of Southern California coastal modernism. Features an oceanfront zero-edge pool that vanishes into the Pacific horizon, seamless motorized walls of glass, and organic travertine stone accents throughout.",
+    "features": [
+      "Private Deeded Beach Access",
+      "Cantilevered Zero-Edge Pool",
+      "Sunset Viewing Pavilion",
+      "Acoustic Home Theater",
+      "Organic Travertine Bathrooms",
+      "Solar & Tesla Powerwall Integration",
+      "Culinary Chef's Kitchen"
+    ],
+    "agent": {
+      "name": "Victoria Sterling",
+      "phone": "+1 (310) 849-2201",
+      "email": "v.sterling@cloud9consultant.com",
+      "image": "/images/team/agent-1.jpg",
+      "title": "Senior Luxury Partner"
+    },
+    "coordinates": {
+      "lat": 34.0016,
+      "lng": -118.8066
+    },
+    "featured": true,
+    "badge": "Oceanfront Icon"
+  },
+  {
+    "id": "grand-bel-air",
+    "title": "The Bel-Air Promontory Estate",
+    "tagline": "Gated palatial compound surrounded by private botanical gardens",
+    "price": 495000000,
+    "formattedPrice": "₹49.50 Cr",
+    "location": "Bel-Air, California",
+    "city": "Bel Air",
+    "state": "CA",
+    "type": "Estate",
+    "status": "For Sale",
+    "beds": 8,
+    "baths": 12,
+    "sqft": 18500,
+    "yearBuilt": 2023,
+    "image": "/images/props/grand-bel-air.jpg",
+    "gallery": [
+      "/images/props/grand-bel-air.jpg",
+      "/images/features/interior.jpg",
+      "/images/hero-bg.jpg",
+      "/images/features/pool.jpg"
+    ],
+    "description": "A rare trophy compound occupying a private 2.5-acre promontory behind the legendary East Gate of Bel-Air. Featuring European craftsmanship, hand-carved limestone fireplaces, two Olympic-length swimming pools, formal French parterre gardens, guest villa, and private championship tennis court.",
+    "features": [
+      "2.5 Acre Private Gated Compound",
+      "Championship Tennis Court",
+      "Indoor & Outdoor Pools",
+      "Guest Villa & Staff Quarters",
+      "Chateau-Grade Wine Vault",
+      "Formal European Gardens",
+      "Private Security Command Center"
+    ],
+    "agent": {
+      "name": "Julian Vance",
+      "phone": "+1 (212) 980-4520",
+      "email": "j.vance@cloud9consultant.com",
+      "image": "/images/team/agent-2.jpg",
+      "title": "Principal Manhattan Broker"
+    },
+    "coordinates": {
+      "lat": 34.0837,
+      "lng": -118.4467
+    },
+    "featured": false,
+    "badge": "Royal Scale"
+  },
+  {
+    "id": "skyline-tower",
+    "title": "The Tribeca Crown Residence",
+    "tagline": "Historic cast-iron loft updated with minimalist Scandinavian elegance",
+    "price": 168000000,
+    "formattedPrice": "₹16.80 Cr",
+    "location": "Tribeca, New York",
+    "city": "New York",
+    "state": "NY",
+    "type": "Penthouse",
+    "status": "For Rent",
+    "beds": 4,
+    "baths": 4.5,
+    "sqft": 6400,
+    "yearBuilt": 2022,
+    "image": "/images/props/skyline-tower.jpg",
+    "gallery": [
+      "/images/props/skyline-tower.jpg",
+      "/images/features/interior.jpg",
+      "/images/props/penthouse-nyc.jpg",
+      "/images/features/lifestyle.jpg"
+    ],
+    "description": "Located in the heart of historic Tribeca on cobblestone Franklin Street, this landmark corner penthouse showcases 14-foot timber-beamed ceilings, original exposed brick, massive arched windows, and a landscaped rooftop terrace designed by renowned landscape architects.",
+    "features": [
+      "Landmarked Cast-Iron Architecture",
+      "14-Foot Timber Beamed Ceilings",
+      "Private 2,000 SqFt Rooftop Garden",
+      "Direct Keyed Elevator Access",
+      "Calacatta Gold Marble Island",
+      "Art Collector Gallery Lighting",
+      "Radiant Heated Floors"
+    ],
+    "agent": {
+      "name": "Sofia De La Rosa",
+      "phone": "+1 (305) 551-7789",
+      "email": "s.delarosa@cloud9consultant.com",
+      "image": "/images/team/agent-3.jpg",
+      "title": "Waterfront Specialist"
+    },
+    "coordinates": {
+      "lat": 40.7183,
+      "lng": -74.0078
+    },
+    "featured": false,
+    "badge": "Architectural Landmark"
+  },
+  {
+    "id": "lakeview-haven",
+    "title": "Lake Tahoe Modern Lakehouse",
+    "tagline": "Private pier, sandy cove, and tranquil mountain reflection",
+    "price": 197500000,
+    "formattedPrice": "₹19.75 Cr",
+    "location": "Lake Tahoe, Nevada",
+    "city": "Incline Village",
+    "state": "NV",
+    "type": "Waterfront",
+    "status": "For Sale",
+    "beds": 5,
+    "baths": 6,
+    "sqft": 8900,
+    "yearBuilt": 2023,
+    "image": "/images/props/lakeview-haven.jpg",
+    "gallery": [
+      "/images/props/lakeview-haven.jpg",
+      "/images/features/pool.jpg",
+      "/images/features/interior.jpg",
+      "/images/hero-bg.jpg"
+    ],
+    "description": "Situated on the pristine Nevada shore of Lake Tahoe, this architectural triumph incorporates granite boulders into its structural foundation. Offering 120 feet of private shoreline, private deep-water buoy, boat lift, cantilevered glass decks, and geothermal radiant climate control.",
+    "features": [
+      "Private Deep-Water Pier & Boat Lift",
+      "120ft Sandy Lakefront",
+      "Geothermal Heating & Cooling",
+      "Panoramic Glass Walls",
+      "Outdoor Fire Pits on Lake Edge",
+      "Custom Sauna overlooking Lake",
+      "Wine Tasting Lounge"
+    ],
+    "agent": {
+      "name": "Marcus Thorne",
+      "phone": "+1 (970) 925-1100",
+      "email": "m.thorne@cloud9consultant.com",
+      "image": "/images/team/agent-4.jpg",
+      "title": "Alpine Portfolio Director"
+    },
+    "coordinates": {
+      "lat": 39.2488,
+      "lng": -119.9575
+    },
+    "featured": false,
+    "badge": "Lakefront Jewel"
+  }
+]
