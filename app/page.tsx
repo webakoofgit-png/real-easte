@@ -1,16 +1,15 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowUpRight, Sparkles, Shield, Compass, PhoneCall, CheckCircle } from "lucide-react";
+import { ArrowUpRight, Sparkles, Compass, CheckCircle } from "lucide-react";
 import Hero from "@/components/home/Hero";
 import HorizontalListings from "@/components/home/HorizontalListings";
 import ServicesPillars from "@/components/home/ServicesPillars";
 import StackingCards from "@/components/home/StackingCards";
 import PropertyCard from "@/components/properties/PropertyCard";
-import { getAllProperties, getFeaturedProperties } from "@/lib/properties";
+import { getAllProperties } from "@/lib/properties";
 
 export default function HomePage() {
   const allProperties = getAllProperties();
-  const featuredProperties = getFeaturedProperties();
   const highlightProperties = allProperties.slice(0, 3);
 
   return (

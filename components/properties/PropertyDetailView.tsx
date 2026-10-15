@@ -9,8 +9,6 @@ import {
   Square,
   MapPin,
   Calendar,
-  Shield,
-  Compass,
   CheckCircle2,
   Phone,
   Mail,
@@ -18,10 +16,8 @@ import {
   Share2,
   Heart,
   Calculator,
-  Download,
   Check,
   Send,
-  Sparkles,
 } from "lucide-react";
 import { Property } from "@/lib/properties";
 import { formatCurrency } from "@/lib/utils";

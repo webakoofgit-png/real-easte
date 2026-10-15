@@ -8,8 +8,6 @@ import {
   Globe,
   ArrowUpRight,
   Sparkles,
-  CheckCircle,
-  Building,
 } from "lucide-react";
 
 export const metadata: Metadata = {

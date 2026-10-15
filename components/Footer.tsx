@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { Compass, Mail, Phone, MapPin, ArrowRight, ShieldCheck, Award, Globe } from "lucide-react";
+import { Mail, Phone, MapPin, ArrowRight, ShieldCheck, Award } from "lucide-react";
 
 export default function Footer() {
   return (

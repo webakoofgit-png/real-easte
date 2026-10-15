@@ -1,11 +1,11 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo } from "react";
 import { useSearchParams } from "next/navigation";
 import PropertyFilter, { FilterState } from "@/components/properties/PropertyFilter";
 import PropertyCard from "@/components/properties/PropertyCard";
 import { Property } from "@/lib/properties";
-import { Sparkles, Compass, AlertCircle } from "lucide-react";
+import { AlertCircle } from "lucide-react";
 
 interface PropertiesDirectoryProps {
   initialProperties: Property[];
@@ -16,26 +16,13 @@ export default function PropertiesDirectory({
 }: PropertiesDirectoryProps) {
   const searchParams = useSearchParams();
 
-  const [filters, setFilters] = useState<FilterState>({
+  const [filters, setFilters] = useState<FilterState>(() => ({
     search: searchParams.get("search") || "",
     location: searchParams.get("location") || "",
     type: searchParams.get("type") || "",
     priceRange: searchParams.get("priceRange") || "",
     bedrooms: searchParams.get("bedrooms") || "",
-  });
-
-  // Sync if URL search params change
-  useEffect(() => {
-    const loc = searchParams.get("location");
-    const t = searchParams.get("type");
-    if (loc !== null || t !== null) {
-      setFilters((prev) => ({
-        ...prev,
-        location: loc || prev.location,
-        type: t || prev.type,
-      }));
-    }
-  }, [searchParams]);
+  }));
 
   const handleReset = () => {
     setFilters({

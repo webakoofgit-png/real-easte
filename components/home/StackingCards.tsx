@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Shield, Sparkles, Compass, Eye, CheckCircle2, ArrowUpRight } from "lucide-react";
+import { Sparkles, CheckCircle2, ArrowUpRight } from "lucide-react";
 
 interface StackingCardData {
   number: string;

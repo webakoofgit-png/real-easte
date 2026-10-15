@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Send, CheckCircle2, ShieldCheck, Lock, Sparkles } from "lucide-react";
+import { Send, CheckCircle2, Lock } from "lucide-react";
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);

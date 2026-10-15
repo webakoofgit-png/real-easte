@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import gsap from "gsap";
-import { ArrowUpRight, Play, Pause, Compass, ChevronDown, Sparkles } from "lucide-react";
+import { ArrowUpRight, Play, Pause, ChevronDown } from "lucide-react";
 
 export default function Hero() {
   const containerRef = useRef<HTMLDivElement>(null);

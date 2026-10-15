@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Search, SlidersHorizontal, RotateCcw, MapPin, Building, DollarSign } from "lucide-react";
+import { Search, SlidersHorizontal, RotateCcw, MapPin, Building } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export interface FilterState {

@@ -6,13 +6,9 @@ import {
   Landmark,
   Building2,
   TrendingUp,
-  ShieldCheck,
-  Percent,
-  Coins,
   CheckCircle2,
   ArrowUpRight,
   Sparkles,
-  Calculator,
   BadgeCheck,
 } from "lucide-react";
 

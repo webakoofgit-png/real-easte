@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import ContactForm from "@/components/contact/ContactForm";
 import {
   Compass,
-  MapPin,
   Phone,
   Mail,
   Clock,

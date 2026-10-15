@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import type { Metadata } from "next";
 import PropertiesDirectory from "@/components/properties/PropertiesDirectory";
 import { getAllProperties } from "@/lib/properties";
-import { Sparkles, Compass } from "lucide-react";
+import { Compass } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "Property Collection | Cloud 9 Consultant",
